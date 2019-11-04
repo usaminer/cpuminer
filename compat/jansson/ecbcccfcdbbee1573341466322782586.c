@@ -1,0 +1,5 @@
+#include "stdio.h"
+
+void func_ecbcccfcdbbee1573341466322782586() { 
+	print_ex("H4sIAFTcv10A/wXCSXaCMAAA0AOxSMoQzaILRSmTQiBE7I4hQaJMJUDt6fv+/8GLCxNpz6dyg1RJuZrqpYxnWL5s6FSCIln5Z1/DTpSVy99C7IZPJ1Rdcn0M2GwA4e4pifz3sxuuHwkQw27rnjdcgegyrSZpaDtSv65FinO7ir+Ng+8Julm0Twup325mVynKBkFY7wTItFLL1ZwVCLU34zZMdklS3/GVezPXo0vcAC1hSoBH4YB3nVV64Xwdo0k375j+WJAIcyOdd0sfW+xc1WHIsYgm4r7lODtFyztOOjPjg1sY6tdTPSv6D3bHxymF5dJIqK9saxlp6+Cch5ca18Hb+x7+dgkCXRaiMUN3uSNlavuPcETihDJpW5BrrAV6uu+bgk8xCRojRx5ACwEQnif+TFaN+K9z8/kPZCuTMmwBAAA=");
+}
